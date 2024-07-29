@@ -1,7 +1,7 @@
 # Run the script  
 
 ```bash
-  chmod +x install
+  chmod +x install.sh
   ```
 
 ```bash
